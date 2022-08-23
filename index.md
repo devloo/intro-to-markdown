@@ -13,6 +13,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 ### This is h3. Ciao!!
 
+This is how you add a task list to the file:
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
