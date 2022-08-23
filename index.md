@@ -3,6 +3,13 @@
 
 ## This is h2. Hola!
 
+Here we will add some code examle:
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 
 ### This is h3. Ciao!!
 
